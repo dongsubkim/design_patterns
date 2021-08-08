@@ -29,5 +29,5 @@ Code from [Refactoring Guru](https://refactoring.guru/)
 #### Observer
 #### State
 #### Strategy
-#### Template Method
+#### [Template Method](https://github.com/dongsubkim/design_patterns/tree/main/src/main/java/blog/dskim/designPatterns/templateMethod)
 #### Visitor
