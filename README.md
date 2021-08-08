@@ -20,7 +20,7 @@ Code from [Refactoring Guru](https://refactoring.guru/)
 #### Proxy
 ---
 ## Behavioral Patterns
-#### Chain of Responsibility
+#### [Chain of Responsibility](https://github.com/dongsubkim/design_patterns/tree/main/src/main/java/blog/dskim/designPatterns/chainOfResponsibility)
 #### Command
 #### Iterator
 #### Interpreter
